@@ -48,4 +48,4 @@ env.bak/
 venv.bak/
 
 # Input Imagery
-data/
+data/input
